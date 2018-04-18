@@ -1,6 +1,6 @@
 
 var playlist = {
-  //'bon jovi': "you give love a bad name"
+  'bon jovi': "you give love a bad name"
 };
 
 /*
